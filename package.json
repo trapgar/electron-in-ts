@@ -11,7 +11,13 @@
     "publish": "electron-forge publish",
     "lint": "eslint --ext .ts,.tsx ."
   },
-  "keywords": [],
+  "keywords": [
+    "electron",
+    "typescript",
+    "vite",
+    "forge",
+    "template"
+  ],
   "author": {
     "name": "Tyler",
     "email": "trapgar@gmail.com"

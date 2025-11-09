@@ -2,8 +2,12 @@
     "editor.formatOnSave": true,
     "editor.tabSize": 2,
     "[typescript]": {
+        "typescript.preferences.quoteStyle": "single",
+        "files.insertFinalNewline": true,
+        "files.trimFinalNewlines": true,
         "editor.codeActionsOnSave": {
             "source.organizeImports": "explicit",
+            "source.fixAll.eslint": "explicit"
         },
     }
 }
